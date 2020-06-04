@@ -1,0 +1,6 @@
+C:\Users\33685\source\repos\WcfService-workshop\bin\WcfService-workshop.dll.config
+C:\Users\33685\source\repos\WcfService-workshop\bin\WcfService-workshop.dll
+C:\Users\33685\source\repos\WcfService-workshop\bin\WcfService-workshop.pdb
+C:\Users\33685\source\repos\WcfService-workshop\obj\Release\WcfService-workshop.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\WcfService-workshop\obj\Release\WcfService-workshop.dll
+C:\Users\33685\source\repos\WcfService-workshop\obj\Release\WcfService-workshop.pdb
