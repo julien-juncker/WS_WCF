@@ -1,0 +1,11 @@
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\Client-Workshop.exe.config
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\Client-Workshop.exe
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\Client-Workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.csprojAssemblyReference.cache
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.exe
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\WcfService-workshop.dll
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\WcfService-workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\WcfService-workshop.dll.config
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.csproj.CopyComplete

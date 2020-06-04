@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF Server", "WCF Server.csproj", "{B5164C88-3407-4AA5-9577-3F4027EC4CE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF Client", "..\Client-Workshop\WCF Client.csproj", "{5CA51C74-6F76-4497-9360-6BEEC669569E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCF Client", "Client-Workshop\WCF Client.csproj", "{5CA51C74-6F76-4497-9360-6BEEC669569E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

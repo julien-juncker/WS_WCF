@@ -1,0 +1,11 @@
+C:\Users\33685\source\repos\Client-Workshop\bin\Release\Client-Workshop.exe.config
+C:\Users\33685\source\repos\Client-Workshop\bin\Release\Client-Workshop.exe
+C:\Users\33685\source\repos\Client-Workshop\bin\Release\Client-Workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\bin\Release\WcfService-workshop.dll
+C:\Users\33685\source\repos\Client-Workshop\bin\Release\WcfService-workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\bin\Release\WcfService-workshop.dll.config
+C:\Users\33685\source\repos\Client-Workshop\obj\Release\Client-Workshop.csprojAssemblyReference.cache
+C:\Users\33685\source\repos\Client-Workshop\obj\Release\Client-Workshop.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\Client-Workshop\obj\Release\Client-Workshop.csproj.CopyComplete
+C:\Users\33685\source\repos\Client-Workshop\obj\Release\Client-Workshop.exe
+C:\Users\33685\source\repos\Client-Workshop\obj\Release\Client-Workshop.pdb

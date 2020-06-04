@@ -1,0 +1,22 @@
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\Client-Workshop.exe.config
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\Client-Workshop.exe
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\Client-Workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\WcfService-workshop.dll
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\WcfService-workshop.pdb
+C:\Users\33685\source\repos\Client-Workshop\bin\Debug\WcfService-workshop.dll.config
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\WCF Client.csprojAssemblyReference.cache
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\WCF Client.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\WCF Client.csproj.CopyComplete
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.exe
+C:\Users\33685\source\repos\Client-Workshop\obj\Debug\Client-Workshop.pdb
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\bin\Debug\Client-Workshop.exe.config
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\bin\Debug\Client-Workshop.exe
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\bin\Debug\Client-Workshop.pdb
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\bin\Debug\WcfService-workshop.dll
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\bin\Debug\WcfService-workshop.pdb
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\bin\Debug\WcfService-workshop.dll.config
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\obj\Debug\WCF Client.csprojAssemblyReference.cache
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\obj\Debug\WCF Client.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\obj\Debug\WCF Client.csproj.CopyComplete
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\obj\Debug\Client-Workshop.exe
+C:\Users\33685\source\repos\WcfService-workshop\Client-Workshop\obj\Debug\Client-Workshop.pdb
