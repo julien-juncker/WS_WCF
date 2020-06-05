@@ -1,0 +1,11 @@
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\bin\Debug\Service_Host.exe.config
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\bin\Debug\Service_Host.exe
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\bin\Debug\Service_Host.pdb
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\bin\Debug\WCF_Service_Library.dll
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\bin\Debug\WCF_Service_Library.pdb
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\bin\Debug\WCF_Service_Library.dll.config
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\obj\Debug\Service_Host.csprojAssemblyReference.cache
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\obj\Debug\Service_Host.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\obj\Debug\Service_Host.csproj.CopyComplete
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\obj\Debug\Service_Host.exe
+C:\Users\33685\source\repos\WcfService-workshop\Service_Host\obj\Debug\Service_Host.pdb

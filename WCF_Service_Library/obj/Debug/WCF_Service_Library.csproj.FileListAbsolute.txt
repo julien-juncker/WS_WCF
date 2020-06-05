@@ -1,0 +1,7 @@
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\bin\Debug\WCF_Service_Library.dll.config
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\bin\Debug\WCF_Service_Library.dll
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\bin\Debug\WCF_Service_Library.pdb
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\obj\Debug\WCF_Service_Library.csprojAssemblyReference.cache
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\obj\Debug\WCF_Service_Library.csproj.CoreCompileInputs.cache
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\obj\Debug\WCF_Service_Library.dll
+C:\Users\33685\source\repos\WcfService-workshop\WCF_Service_Library\obj\Debug\WCF_Service_Library.pdb

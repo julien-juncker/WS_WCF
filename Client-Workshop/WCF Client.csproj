@@ -32,6 +32,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -52,9 +56,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WCF Server.csproj">
-      <Project>{b5164c88-3407-4aa5-9577-3f4027ec4ce4}</Project>
-      <Name>WCF Server</Name>
+    <ProjectReference Include="..\Service_Host\Service_Host.csproj">
+      <Project>{c8891a2a-84d0-49ea-8352-f4d5261eebca}</Project>
+      <Name>Service_Host</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WCF_Service_Library\WCF_Service_Library.csproj">
+      <Project>{4eadfd55-dea8-4da2-88db-6b8e1f2e3cba}</Project>
+      <Name>WCF_Service_Library</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

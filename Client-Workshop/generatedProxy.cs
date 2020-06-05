@@ -11,20 +11,20 @@
 
 
 [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-[System.ServiceModel.ServiceContractAttribute(Namespace="http://eXia_A4_WCF1", ConfigurationName="ICalculation")]
+[System.ServiceModel.ServiceContractAttribute(ConfigurationName="ICalculation")]
 public interface ICalculation
 {
     
-    [System.ServiceModel.OperationContractAttribute(Action="http://eXia_A4_WCF1/ICalculation/m_add", ReplyAction="http://eXia_A4_WCF1/ICalculation/m_addResponse")]
+    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculation/m_add", ReplyAction="http://tempuri.org/ICalculation/m_addResponse")]
     int m_add(int n, int m);
     
-    [System.ServiceModel.OperationContractAttribute(Action="http://eXia_A4_WCF1/ICalculation/m_add", ReplyAction="http://eXia_A4_WCF1/ICalculation/m_addResponse")]
+    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculation/m_add", ReplyAction="http://tempuri.org/ICalculation/m_addResponse")]
     System.Threading.Tasks.Task<int> m_addAsync(int n, int m);
     
-    [System.ServiceModel.OperationContractAttribute(Action="http://eXia_A4_WCF1/ICalculation/m_sous", ReplyAction="http://eXia_A4_WCF1/ICalculation/m_sousResponse")]
+    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculation/m_sous", ReplyAction="http://tempuri.org/ICalculation/m_sousResponse")]
     int m_sous(int n, int m);
     
-    [System.ServiceModel.OperationContractAttribute(Action="http://eXia_A4_WCF1/ICalculation/m_sous", ReplyAction="http://eXia_A4_WCF1/ICalculation/m_sousResponse")]
+    [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ICalculation/m_sous", ReplyAction="http://tempuri.org/ICalculation/m_sousResponse")]
     System.Threading.Tasks.Task<int> m_sousAsync(int n, int m);
 }
 

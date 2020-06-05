@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.IdentityModel.Policy;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
@@ -18,6 +20,9 @@ namespace WcfService_workshop
 
         [OperationContract]
         int m_sous(int n, int m);
+
+        /*[OperationContract]
+        ReadOnlyCollection<IAuthorizationPolicy> ValidateUserNamePasswordCore(string userName, string password);*/
     }
 
 
